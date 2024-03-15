@@ -28,4 +28,4 @@ Tools and Libraries Used
 This notebook is ideal for data analysts, students, and aviation enthusiasts interested in understanding airline delay patterns. It serves as a guide to approach similar data analysis tasks in other domains.
 ##Contribution
 
-Contributors to this project: Bílková Helena, bilh00 (Textual report) Lauer Michal and Tomášková Tereza (Preprocessing, Clustering), Vinkler Vladimír (Preprocessing, Random Forests)
+Contributors to this project: Bílková Helena (Textual report) Lauer Michal and Tomášková Tereza (Preprocessing, Clustering), Vinkler Vladimír (Preprocessing, Random Forests)
