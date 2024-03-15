@@ -1,8 +1,8 @@
 # Airlines_delay_analysis
 Explore airline delays with this Jupyter Notebook. Features data loading, preprocessing, and in-depth analysis using Pandas, Matplotlib, Seaborn, and Numpy. Offers insights into delay patterns, enhancing understanding of airline operations. Ideal for data enthusiasts and analysts.
 
-#Airline Delay Data Analysis
-##Overview
+# Airline Delay Data Analysis
+## Overview
 
 This repository contains a Jupyter Notebook dedicated to the exploration and analysis of airline delay data. It's an insightful project that delves into the intricacies of airline delays, providing valuable insights into patterns and trends within the aviation industry.
 Key Features
@@ -13,7 +13,7 @@ Key Features
 
     Reproducibility: Ensuring reproducibility, the analysis is grounded in a systematic approach with clear documentation. A set seed in numpy ensures consistent results across multiple runs.
 
-##Objectives
+# Objectives
 
 The primary aim of this project is to provide a deeper understanding of the factors contributing to airline delays. By analyzing various aspects of the data, we aim to uncover potential areas for efficiency improvements in airline operations.
 Tools and Libraries Used
@@ -23,7 +23,7 @@ Tools and Libraries Used
     Numpy: For numerical operations.
     Jupyter Notebook: As the interactive environment for analysis and visualization.
 
-##Usage
+# Usage
 
 This notebook is ideal for data analysts, students, and aviation enthusiasts interested in understanding airline delay patterns. It serves as a guide to approach similar data analysis tasks in other domains.
 ##Contribution
